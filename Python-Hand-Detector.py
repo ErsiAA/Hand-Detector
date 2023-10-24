@@ -72,4 +72,5 @@ while True:
         cv2.destroyAllWindows()
         cap.release()
         break
-#Yoi
+
+#ersiaa
